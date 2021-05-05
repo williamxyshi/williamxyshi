@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+Favourite Tea: Shifeng Longjing
 <!--
 **williamxyshi/williamxyshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
