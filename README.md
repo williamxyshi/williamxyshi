@@ -1,6 +1,13 @@
 ### Hi there 👋
 
-Favourite Tea: Shifeng Longjing
+**Favourite tea:** Shifeng Longjing
+
+**What I'm working on:** [Tea House Apps](https://teahouseapps.app/) 
+
+**itchio (next jam: GMTK 2021):** 
+https://williamxyshi.itch.io/
+
+
 <!--
 **williamxyshi/williamxyshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
