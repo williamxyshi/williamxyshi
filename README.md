@@ -2,6 +2,8 @@
 
 **Favourite tea:** Shifeng Longjing
 
+**Personal Website:** [williamxyshi](https://williamxyshi.com/) 
+
 **What I'm working on:** [Tea House Apps](https://teahouseapps.app/) 
 
 **itchio (next jam: GMTK 2021):** 
