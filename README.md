@@ -2,7 +2,7 @@
 
 **Favourite tea:** Shifeng Longjing
 
-**Personal Website:** [williamxyshi](https://williamxyshi.com/) 
+**Personal Website:** [https://williamxyshi.com/](https://williamxyshi.com/) 
 
 **What I'm working on:** [Tea House Apps](https://teahouseapps.app/) 
 
