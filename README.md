@@ -2,11 +2,11 @@
 
 **Favourite tea:** Shifeng Longjing
 
-**Personal Website:** [https://williamxyshi.com/](https://williamxyshi.com/) 
+**Personal website:** [https://williamxyshi.com/](https://williamxyshi.com/) 
 
 **What I'm working on:** [Tea House Apps](https://teahouseapps.app/) 
 
-**itchio:** 
+**Game jams:** 
 https://williamxyshi.itch.io/
 
 
