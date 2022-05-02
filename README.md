@@ -2,11 +2,10 @@
 
 **Favourite tea:** Shifeng Longjing
 
-**What I'm working on:** [Paq](https://www.paqit.io/) 
-
-**Game jams:** 
+Game jams:
 https://williamxyshi.itch.io/
 
+[Paq](https://www.paqcircular.com/) 
 
 <!--
 **williamxyshi/williamxyshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
