@@ -2,6 +2,8 @@
 
 **Favourite tea:** Shifeng Longjing
 
+What I'm working on: https://artemisco.ca/
+
 Game jams:
 https://williamxyshi.itch.io/
 
