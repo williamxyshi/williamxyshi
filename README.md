@@ -1,11 +1,8 @@
 ### Hi there 👋
 
-**Favourite tea:** Shifeng Longjing
+cofounder and cto at https://artemisdata.io/
 
-What I'm working on: https://artemisdata.io/
-
-Game jams:
-https://williamxyshi.itch.io/
+play my game jam games: https://williamxyshi.itch.io/
 
 
 
