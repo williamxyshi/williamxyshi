@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-cofounder and cto at https://artemisdata.io/
+cofounder and cto: https://artemisdata.io/
 
 play my game jam games: https://williamxyshi.itch.io/
 
