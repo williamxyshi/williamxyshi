@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-cofounder and cto: https://artemisdata.io/
+simplify your data stack -> https://artemisdata.io/
 
-play my game jam games: https://williamxyshi.itch.io/
+play my game jam games -> https://williamxyshi.itch.io/
 
 
 
