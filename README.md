@@ -4,6 +4,8 @@ simplify your data stack -> https://artemisdata.io/
 
 play my game jam games -> https://williamxyshi.itch.io/
 
+website -> https://williamxyshi.com/
+
 
 
 <!--
